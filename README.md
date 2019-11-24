@@ -3,5 +3,5 @@ Encrypts a text file's contents. File contents can only be read or modified with
 
 Input is folder location where the encrypted text files will be stored.
 
-Libraries necessary:
+Required libraries:
 - scrypt
